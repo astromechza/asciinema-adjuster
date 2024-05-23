@@ -63,7 +63,6 @@ func main() {
 
 			if inline {
 				elapsed = jitter(charInterval, 2)
-				log.Print(elapsed)
 			}
 
 			segment := line[2].(string)

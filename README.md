@@ -6,7 +6,7 @@ See <https://docs.asciinema.org/getting-started/> for instructions for recording
 Then:
 
 ```
-$ go install github.com/astromechza/asciinema-adjuster
+$ go install github.com/astromechza/asciinema-adjuster@latest
 $ asciinema-adjuster example.cast '$ '
 ```
 
